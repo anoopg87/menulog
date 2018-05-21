@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Menulog</string>
+    <string name="enter_out_code">Please enter Outcode</string>
+    <string name="find_restaurants">Find restaurants</string>
+    <string name="please_enter_postcode">Please enter the postcode</string>
+    <string name="restaurants_listed">Restaurants listed for</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="nearest_restaurants">Nearest restaurants</string>
+    <string name="service_not_available">Service not available</string>
+    <string name="no_address_found">No address available</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services</string>
+    <string name="please_enable_gps">Please enable gps services.</string>
+    <string name="location_info_not_available">Location information not available.</string>
+    <string name="google_client_connection_failed">Google client connection failed</string>
+</resources>
